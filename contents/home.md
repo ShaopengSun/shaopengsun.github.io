@@ -1,11 +1,11 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![shaopengsun](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ShaopengSun)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Phd's Degree insssssssss
 
 #### Email
-sli[at]cumt.edu.cn
+sunshaopeng0903@qq.com
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
